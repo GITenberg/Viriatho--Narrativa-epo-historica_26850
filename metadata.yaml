@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Teófilo_Braga
     - http://pt.wikipedia.org/wiki/Teófilo_Braga
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26850#Viriatho--Narrativa-epo-historica
 gutenberg_issued: '2008-10-09'
 gutenberg_type: Text
 identifiers:
