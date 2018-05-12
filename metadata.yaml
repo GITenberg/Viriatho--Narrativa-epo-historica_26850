@@ -1,0 +1,35 @@
+_repo: Viriatho--Narrativa-epo-historica_26850
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Braga, Teófilo
+    aliases:
+    - Braga, Theophilo
+    - Braga, Joaquim Teófilo Fernandes
+    - Fernandes Braga, Joaquim Theophilo
+    - Braga, Joaquim Theophilo Fernandes
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '3929'
+    url: http://www.gutenberg.org/2009/agents/3929
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Teófilo_Braga
+    - http://pt.wikipedia.org/wiki/Teófilo_Braga
+description: ''
+gutenberg_issued: '2008-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26850'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- History -- Roman period, 218 B.C.-414 A.D.'
+- !lcsh 'Viriathus, -approximately 139 B.C. -- Fiction'
+- !lcc 'PQ'
+title: 'Viriatho: Narrativa epo-historica'
+url: http://www.gutenberg.org/ebooks/26850
